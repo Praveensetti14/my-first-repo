@@ -1,3 +1,3 @@
 my name is Praveen.
 I'm studying BCA
-I learned how to create repositories and edit the file in GitHub.
+I learned how to create repository
