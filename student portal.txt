@@ -1,5 +1,0 @@
-Name         :S.v praveen
-SUC          :2358250282
-HALLTICKET NO:230377401199
-COURSE       :BCA
-College      :Aditya degree college
